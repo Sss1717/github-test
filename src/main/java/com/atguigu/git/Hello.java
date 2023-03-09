@@ -18,5 +18,6 @@ public class Hello {
         System.out.println("hot-fix111,,hot-fix进行了修改，测试冲突");
         System.out.println("hot-fix test");
         System.out.println("master test");
+        System.out.println("hot-fix test2");
     }
 }
