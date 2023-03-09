@@ -14,5 +14,6 @@ package com.atguigu.git;
 public class Hello {
     public static void main(String[] args) {
         System.out.println("hello,git01");
+        System.out.println("hello,git02");
     }
 }
